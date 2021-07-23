@@ -1,1 +1,8 @@
-
+.map{
+  width: 50%;
+  display: inline-block;
+}
+.details{
+  width: 50%;
+  display: inline-block;
+}
