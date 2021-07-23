@@ -15,3 +15,6 @@
 body > div.container-inline > div.details > img{
     width: 45vh;
 }
+.announcement{
+    background-color:lightcyan;
+}
