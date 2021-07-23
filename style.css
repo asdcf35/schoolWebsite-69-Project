@@ -1,8 +1,17 @@
+.container-inline{
+    display: flex;
+    
+}
 .map{
-  width: 50%;
-  display: inline-block;
+    flex: 1;
+    margin-left: 32vh;
 }
 .details{
-  width: 50%;
-  display: inline-block;
+    flex: 2;
+}
+.map:details {
+    margin-right: 20vh;
+} 
+body > div.container-inline > div.details > img{
+    width: 45vh;
 }
