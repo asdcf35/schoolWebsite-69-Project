@@ -20,6 +20,7 @@ body > div.container-inline > div.details > img{
     display: flex;
     flex-direction: column;
     font-size: 62.5%;
+    width: 50%
 }
 
 .movie_head{
