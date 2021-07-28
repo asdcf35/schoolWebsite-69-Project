@@ -1,20 +1,35 @@
+
 .container-inline{
     display: flex;
-    
-}
-.map{
-    flex: 1;
-    margin-left: 32vh;
-}
-.details{
-    flex: 2;
-}
-.map:details {
-    margin-right: 20vh;
+
 } 
 body > div.container-inline > div.details > img{
     width: 45vh;
 }
+.row{
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    
+}
+.row > div.travel_mainDiv{
+    outline: 2px double #808080;
+    margin: 2px;
+}
+.flexer{
+    display: flex;
+    flex-direction: column;
+    font-size: 62.5%;
+}
+
+.movie_head{
+    font-size: 2rem;
+    text-align: start;
+    margin: 0.5rem;
+}
+.collapse{
+    font-size: 1.5rem;
+}
 .announcement{
-    background-color:lightcyan;
+    background-color: blue;
 }
