@@ -30,3 +30,12 @@ body > div.container-inline > div.details > img{
 .collapse{
     font-size: 1.5rem;
 }
+.announcement{
+    background-color:lightcyan;
+}
+.list-group-item > h4{
+    font-size: 2.5em
+}
+.list-group-item > p{
+    font-size: 1.5rem;
+}
