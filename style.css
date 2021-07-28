@@ -29,7 +29,6 @@
     display: flex;
     flex-direction: column;
     font-size: 62.5%;
-    width: 50%
 }
 
 .movie_head{
@@ -49,10 +48,7 @@ h4.rem2{
 .list-group-item-text{
     font-size: 1.5rem;
 }
-<<<<<<< HEAD
 #footer{
-    -webkit-text-size-adjust: 100%;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
     line-height: 1.42857143;
@@ -63,5 +59,4 @@ h4.rem2{
     margin-right: auto;
     margin-left: auto;
 }
-=======
->>>>>>> edcf21c97a274c1ad03895346bc0cd7e817c90ab
+
