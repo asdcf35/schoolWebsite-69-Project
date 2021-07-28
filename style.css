@@ -29,6 +29,7 @@
     display: flex;
     flex-direction: column;
     font-size: 62.5%;
+    width: 50%
 }
 
 .movie_head{
@@ -40,7 +41,7 @@
     font-size: 1.5rem;
 }
 .announcement{
-    background-color: blue;
+    background-color: lightcyan;
 }
 h4.rem2{
     font-size: 2em;
@@ -48,6 +49,7 @@ h4.rem2{
 .list-group-item-text{
     font-size: 1.5rem;
 }
+<<<<<<< HEAD
 #footer{
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
@@ -61,3 +63,5 @@ h4.rem2{
     margin-right: auto;
     margin-left: auto;
 }
+=======
+>>>>>>> edcf21c97a274c1ad03895346bc0cd7e817c90ab
