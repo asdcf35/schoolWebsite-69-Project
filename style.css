@@ -22,7 +22,7 @@
     
 }
 .row > div.travel_mainDiv{
-    outline: 2px double #808080;
+    outline: 2px solid #c7c7c7;
     margin: 2px;
 }
 .flexer{
