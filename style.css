@@ -1,1 +1,11 @@
- 
+
+root{
+    counter-reset: headings;
+}
+
+b{
+    counter-increment: headings;
+}
+b::before{
+    content: counter(headings) ": ";
+}
